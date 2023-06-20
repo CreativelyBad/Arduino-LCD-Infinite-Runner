@@ -12,6 +12,6 @@ This is an infinite runner game I made using the Arduino UNO R3 and a 16x2 LCD D
 # NOTES
 All my parts were from the Super Starter Kit UNO R3 Project from Elegoo<br />
 All the setup for the parts can be easily found online or in the elegoo starter kit manual<br />
-Try set it up your self for the challenge but if you can't figure it out or get stuck you can check the photo of my setup.<br />
+Try set it up your self for the challenge but if you can't figure it out or get stuck you can check the photo of my setup (Not a diagram but might help a bit). <br />
 
 If you have any questions let me know.
